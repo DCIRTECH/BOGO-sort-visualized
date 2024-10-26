@@ -2,7 +2,7 @@ So, I am starting to work on visualized algorithms and I thought this one would 
 
 I am happy with how this came out and if you run the code on your own PC, it will generate a new random video everytime.
 
-Here are some generated examples.
+Here are some generated examples. I highly recommend against fully sorting the list back into it's original state due to the amount of time it would take to generate the video.
 
 https://github.com/user-attachments/assets/51c7ade0-69a9-4669-8c54-15fcbb1dbe0d
 
