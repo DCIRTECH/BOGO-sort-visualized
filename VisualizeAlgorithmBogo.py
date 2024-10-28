@@ -15,16 +15,8 @@ def randomizer(ListOfSquare, ListOfPositions):
 
 class SquareToCircle(Scene):
     def construct(self):
-        squareBlue = Square().scale(.5)
-        squareBlue2 = Square().scale(.5)
-        squareBlue3 = Square().scale(.5)
-        squareBlue4 = Square().scale(.5)
-        squareBlue5 = Square().scale(.5)
-        squareRed = Square().scale(.5)
-        squareRed1 = Square().scale(.5)
-        squareRed2 = Square().scale(.5)
-        squareRed3 = Square().scale(.5)
-        squareRed4 = Square().scale(.5)
+        squareBlue = squareBlue2 = squareBlue3 = squareBlue4 = squareBlue5 = Square().scale(.5)
+        squareRed = squareRed1 = squareRed2 = squareRed3 = squareRed4 = Square().scale(.5)
         
         ListOfSquare = [squareBlue, squareBlue2, squareBlue3, squareBlue4, squareBlue5, squareRed, squareRed1, squareRed2, squareRed3, squareRed4]
         ListOfPositions = [0, LEFT * 1, LEFT * 2, LEFT * 3, LEFT * 4, RIGHT * 5, RIGHT * 1, RIGHT * 2, RIGHT * 3, RIGHT * 4]
