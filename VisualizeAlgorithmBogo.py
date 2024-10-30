@@ -12,7 +12,7 @@ def randomizer(ListOfSquare, ListOfPositions):
 
 
 
-
+#just testing git
 class SquareToCircle(Scene):
     def construct(self):
         squareBlue = squareBlue2 = squareBlue3 = squareBlue4 = squareBlue5 = Square().scale(.5)
