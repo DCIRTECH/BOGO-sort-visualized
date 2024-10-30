@@ -10,7 +10,7 @@ def randomizer(ListOfSquare, ListOfPositions):
         ListOfPositions[c], ListOfPositions[d] = ListOfPositions[d], ListOfPositions[c]
     return ListOfSquare, ListOfPositions
 
-#done
+#i just want to commit this and know how it works
 class SquareToCircle(Scene):
     def construct(self):
         squareBlue = squareBlue2 = squareBlue3 = squareBlue4 = squareBlue5 = Square().scale(.5)
