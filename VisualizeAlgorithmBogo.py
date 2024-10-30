@@ -12,6 +12,7 @@ def randomizer(ListOfSquare, ListOfPositions):
 
 #I just wanted to test git, I think I understand now. It's save first
 #then add the file to staging
+#then commit
 class SquareToCircle(Scene):
     def construct(self):
         squareBlue = squareBlue2 = squareBlue3 = squareBlue4 = squareBlue5 = Square().scale(.5)
