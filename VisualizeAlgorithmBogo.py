@@ -12,7 +12,10 @@ def randomizer(ListOfSquare, ListOfPositions):
 
 
 
-#just testing git
+#just testing git asdasdasd
+#gonna add a few more lines so I can understand what's going on
+#I don't want to watch this dumb podcast, but i dont have much better to do
+#checkdeck
 class SquareToCircle(Scene):
     def construct(self):
         squareBlue = squareBlue2 = squareBlue3 = squareBlue4 = squareBlue5 = Square().scale(.5)
